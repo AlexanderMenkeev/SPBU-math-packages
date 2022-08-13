@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # -- Sheet --
+https://datalore.jetbrains.com/view/notebook/8ds6RvvVCzF8ZqgMds5crF
 
 print('Задание из файла "Задания_графики":')
 from matplotlib import pyplot as plt
